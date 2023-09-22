@@ -1,0 +1,28 @@
+
+
+body{
+  background-color: #f0f0f0;
+}
+
+.center-form {
+    display: flex;
+    justify-content: center;
+}
+
+.my-card{
+  display: flex ;
+  justify-content: center;
+}
+
+.my-header{
+  margin-top: 200px;
+  display: flex ;
+  justify-content: center;
+  text-align: center;
+}
+
+.btn-hover:hover {
+  background-color: #0056b3; /* Change the background color on hover */
+  color: #fff; /* Change the text color on hover */
+  transform: scale(1.1); /* Scale up the button on hover */
+}
